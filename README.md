@@ -1,4 +1,4 @@
-# Employment Analysis in India – Exploratory Data Analysis (EDA)
+# Employment Analysis in India
 
 This project performs an in-depth Exploratory Data Analysis (EDA) on a messy employment dataset from India to uncover patterns related to **salary, education, industry, experience, and AI risk**.
 
